@@ -133,30 +133,3 @@ tests/
   }
   ```
 
-## 🤝 Contribuições
-
-Contribuições são sempre bem-vindas! Se você deseja contribuir:
-
-1. Fork o repositório.
-2. Crie uma nova branch para sua feature ou correção.
-   ```bash
-   git checkout -b minha-nova-feature
-   ```
-3. Faça as alterações necessárias e commit.
-   ```bash
-   git commit -m "Adiciona nova funcionalidade X"
-   ```
-4. Envie para o repositório remoto.
-   ```bash
-   git push origin minha-nova-feature
-   ```
-5. Abra um Pull Request.
-
-## 📝 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se livre para usá-lo e adaptá-lo como preferir.
-
----
-
-### 🌟 Mostre seu apoio!
-Se você gostou deste projeto, deixe uma estrela ⭐ no repositório! Isso nos motiva a continuar melhorando. Obrigado!
